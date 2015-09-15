@@ -1,9 +1,9 @@
 # Google Apps Script Project: SunCalc
-This repo (SunCalc) was automatically updated on 13 February 2015 21:20:10 GMT by GasGit
+This repo (SunCalc) was automatically updated on 15 September 2015 11:48:48 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project SunCalc
-Where possibile directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
+Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [SunCalc is here](https://script.google.com/d/16kBE3D5a91ekr96oCpmXPxzU96icR_2x1RzjD30OUF3d-lRORJ8yKouS/edit?usp=sharing "open in the GAS IDE")
 
 ### Modules of SunCalc.gs included in this repo
@@ -16,6 +16,8 @@ no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
-no libraries discovered
+*library*|*identifier*|*version*
+--- | --- | --- 
+Drive API| Drive|v2
 ###Need more detail ?
 You can see [full project info as json here](info.json)
